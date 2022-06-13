@@ -1,29 +1,9 @@
-# Welcome to OAuth Microservice
+# Welcome to Node Microservice Libs
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 
-> OAuth Microservice
+> This repo contains some usuful libraries while developing microservices in Node.
 
-## Install
-
-1. Install Postgres
-2. Install Mac Brew 
-2. Install Dependecies
-
-    ```sh
-    npm install
-    ```
-
-## Usage
-
-1. Initialise postgres database
-    ```sh
-    npm run db:start
-    ```
-2. Start Service In Development Environment
-    ```sh
-    npm run dev
-    ```
 
 ## Author
 
